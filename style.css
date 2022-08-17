@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f8f7f2;
+}
+
+.balanca1 {
+    position: absolute;
+    bottom: 175px;
+    margin-left: 1000px;
+}
+
+.balanca2 {
+    position: absolute;
+    bottom: 175px;
+    margin-left: 700px;
+}
+
+.info-panel{
+    position: absolute;
+    border: 5px solid #111;
+    height: 80%;
+    width: 400px;
+    margin-left: 100px;
+    bottom: 10%;
+    background-color: #be1e2d;
+    border-radius: 8px;
+    /* #2d2926 */
+}   
+
+.numero2{
+    color: black;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    bottom: 140px;
+    margin-left: 1085px;
+}
+
+.numero1{
+    color: black;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    bottom: 140px;
+    margin-left: 785px;
+}
+
+.alimentos1{
+    position: absolute;
+    margin-left: 760px;
+    top: 120px;
+}
+
+.alimentos2{
+    position: absolute;
+    margin-left: 1060px;
+    top: 120px;
+}
